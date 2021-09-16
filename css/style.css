@@ -14,3 +14,21 @@ body {
 .projects-section div.bg-black {
     background-color: green;
 }
+
+#mainNav.navbar-shrink {
+    font-size: 1.4rem;
+}
+
+#mainNav.nav-shrink .navbar-brand {
+    color: rgba(255, 255, 255, 0.534) !important;
+}
+
+.nav-link {
+    font-weight: 500 !important;
+    color: rgba(255, 255, 255, 0.534) !important;
+}
+
+.nav-link:hover {
+    color: #fff !important;
+    text-decoration: underline;
+}
