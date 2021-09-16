@@ -1,0 +1,16 @@
+body {
+    overflow-x: hidden;
+}
+.text-center .btn {
+    background-color: green;
+    color: #fff;
+}
+
+.text-center .btn:hover {
+    filter: brightness(1.1);
+    color: #fff;
+}
+
+.projects-section div.bg-black {
+    background-color: green;
+}
