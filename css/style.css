@@ -15,17 +15,18 @@ body {
     background-color: green;
 }
 
-/* #mainNav.navbar-shrink {
-    font-size: 1.4rem;
-} */
-
 #mainNav.nav-shrink .navbar-brand {
     color: rgba(255, 255, 255, 0.534) !important;
 }
 
 .nav-link {
     font-weight: 500 !important;
+    background-color: #3F6B80;
     color: rgba(255, 255, 255, 0.534) !important;
+}
+.nav-link:hover {
+    filter: brightness(1.08);
+    color: rgba(255, 255, 255, 1) !important;
 }
 
 .signup-section #submitButton {
