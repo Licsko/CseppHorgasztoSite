@@ -33,3 +33,7 @@ body {
 .signup-section #submitButton {
     background-color: green;
 }
+
+.img-height-fixed {
+    height: 459px !important;
+}
