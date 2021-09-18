@@ -37,3 +37,12 @@ body {
 .img-height-fixed {
     height: 459px !important;
 }
+
+.profile-img {
+    width: 50%;
+    border: 4px solid #fff;
+}
+
+.black-opacity-card {
+    background-color: rgba(0, 0, 0, 0.6);
+}
