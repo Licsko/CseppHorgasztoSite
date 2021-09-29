@@ -7949,6 +7949,10 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
   color: rgba(255, 255, 255, 0.5) !important;
 }
+.text-white-75 {
+  --bs-text-opacity: 1;
+  color: rgba(255, 255, 255, 0.75) !important;
+}
 
 .text-reset {
   --bs-text-opacity: 1;
@@ -11607,7 +11611,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, rgb(13, 63, 13, 1) 0%, rgba(13, 63, 13, 0.9) 75%, rgba(13, 63, 13, 0.8) 100%);
+  background: linear-gradient(to bottom, rgb(13, 63, 13, 1) 0%, rgb(13, 63, 13, .9) 25%, rgba(65, 105, 65, 0.5) 50%, rgba(13, 63, 13, 0.2) 100%), url("../img/clark-young-PTWiAcYnkWw-unsplash.jpg");
 }
 .about-section p {
   margin-bottom: 5rem;
