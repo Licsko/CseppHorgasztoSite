@@ -50,3 +50,12 @@ body {
 .magmix a:hover {
     color:#fff !important;
 }
+
+#portfolio-link {
+    font-weight: bold;
+    text-decoration: none;
+}
+#portfolio-link:hover {
+    color: rgba(255, 255, 255, 1) !important;
+    text-decoration: underline;
+}
